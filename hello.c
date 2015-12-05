@@ -15,4 +15,5 @@ void printHello() {
 //
 func1 () {
 	// i will do something.
+	printf ("func1\n");
 }
