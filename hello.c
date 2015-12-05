@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+void typpo();
 void printHello();
 void printWorld();
 void printHelloWorld();
