@@ -3,6 +3,7 @@
 void printHello();
 void printWorld();
 void printHelloWorld();
+void func1 ();
 
 int main () {
 	printf("hello world\n");
@@ -23,4 +24,10 @@ void printWorld() {
 //
 void printHelloWorld() {
 	printf ("hello world\n");
+}
+
+//
+func1 () {
+	// i will do something.
+	printf ("func1\n");
 }
