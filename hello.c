@@ -4,6 +4,7 @@ void printHello();
 void printWorld();
 void printHelloWorld();
 void func1 ();
+void func6 ();
 
 int main () {
 	printf("hello world\n");
@@ -30,4 +31,10 @@ void printHelloWorld() {
 func1 () {
 	// i will do something.
 	printf ("func1\n");
+}
+
+//
+func func6() {
+	printf ("func6()");
+	return 
 }
