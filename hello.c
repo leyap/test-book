@@ -2,6 +2,7 @@
 
 void printHello();
 void printWorld();
+void printHelloWorld();
 
 int main () {
 	printf("hello world\n");
@@ -17,4 +18,9 @@ void printHello(void) {
 //
 void printWorld() {
 	printf ("hello\n");
+}
+
+//
+void printHelloWorld() {
+	printf ("hello world\n");
 }
